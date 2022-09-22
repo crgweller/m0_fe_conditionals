@@ -35,9 +35,16 @@ if (bearChoice === 1) {
 
 // Questions
 // 1. In English, using technical vocabulary, describe what is happening between lines 12 and 16.
+// These variables determine the clothing that the bear is wearing, and of the two options for clothing (which can be renamed), which of them the bear will be wearing.
 // 2. What variable has a new value assigned to it after the first if statement executes?
+//doorChoice
 // 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
+// scarf
 // 4. In English, using technical vocabulary, describe what is happening between lines lines 25 and 33.
+//This if/else if statements determine the path of the story based on the variation of bearChoice (which option you choose from lines 21-23)
 // 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
+//You run into a bear-free room full of snakes.
 // 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
+//You tell the bear the hat is too small and it starts to cry.
 // 7. What is your favorite ending?
+//The final one
